@@ -1,0 +1,19 @@
+{
+  "name": "alexreplytrip",
+  "version": "1.0.0",
+  "description": "botjkev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jkev",
+  "license": "MIT",
+  "dependencies": {
+    "actions-on-google": "^3.0.0",
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.3"
+  }
+}
